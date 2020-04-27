@@ -59,7 +59,7 @@ COPY ./images/ ${HOME}/notebooks/images/
 
 # Copy package sources
 
-COPY ./NuGet.config ${HOME}/nuget.config
+COPY ./Nuget.config ${HOME}/nuget.config
 
 RUN chown -R ${NB_UID} ${HOME}
 USER ${USER}

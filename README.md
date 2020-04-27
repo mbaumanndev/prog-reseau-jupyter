@@ -1,6 +1,8 @@
 Programmation réseau
 ====================
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mbaumanndev/prog-reseau-jupyter/master)
+
 Avant propos
 ------------
 
@@ -21,6 +23,8 @@ Pour utiliser le contenu de ce dépôt, vous aurez besoin de :
 La documentation de .NET Interactive contient les liens et guide d'installation pour les autres composants nécessaires à l'éxécution de l'ensemble de l'environement.
 
 Une fois tout ceci installé, vous pouvez lancer Jupyter Notebooks (en ligne de commande ou via Anaconda si vous l'avez installé avec ce dernier).
+
+Vous n'avez pas la possibilité d'installer Jupyter et/ou .NET sur votre poste ? Vous pouvez retrouver un environement clés en main sur [Binder](https://mybinder.org/v2/gh/mbaumanndev/prog-reseau-jupyter/master)
 
 Cours
 -----
