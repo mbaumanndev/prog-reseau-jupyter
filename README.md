@@ -28,7 +28,7 @@ Cours
 Voici la liste de cours prévus à ce jour :
 
 - [Cours sur la résilience](./poly-resilience.ipynb)
-- Cours sur AMQP et MQTT
+- [Cours sur AMQP et MQTT](./amqp-mqtt.ipynb)
 - Cours sur SignalR et Sockets
 - Cours sur OAuth et les services d'identité
 
